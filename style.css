@@ -1,0 +1,354 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.bar {
+    margin: 10px;
+    font-size: 40px;
+}
+
+.category {
+    margin-top: 10px;
+    line-height: 20px;
+    margin-left: 10px;
+}
+
+li {
+    padding: 20px;
+}
+
+.left {
+
+    width: 15vw;
+    height: 140vh;
+    background-color: darkblue;
+    color: white;
+}
+
+.middle {
+    width: 50vw;
+    height: 100vh;
+    /* border: 2px solid black; */
+    padding: 10px;
+    margin: 0px 15px;
+
+}
+
+.fbtn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ffbutton {
+    padding: 15px;
+    font-size: 20px;
+    border: 2px solid darkblue;
+    height: 70px;
+    width: 215px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 4px;
+
+}
+
+.ssbutton {
+    padding: 15px;
+    font-size: 20px;
+    border: 2px solid darkblue;
+    height: 70px;
+    width: 215px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 4px;
+
+}
+
+.sbtn {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav {
+    border: 2px solid black;
+    line-height: 30px;
+    margin-top: 15px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+input {
+    border-style: none;
+}
+
+.nbutton {
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: tomato;
+
+}
+
+.sbur {
+    height: 10vh;
+    width: 5vw;
+
+}
+
+.containe {
+    /* margin-top: 20px; */
+    width: 50vw;
+    height: 35vh;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.boxes {
+
+    width: 10vw;
+    height: 35vh;
+    /* border: 2px solid black; */
+    box-shadow: 5px 5px blanchedalmond;
+}
+
+.fcentre {
+    text-align: center;
+}
+
+img {
+    margin-left: 15px;
+    width: 8vw;
+    height: 25vh;
+    object-fit: contain;
+}
+
+.gapp {
+    margin-top: 5px;
+}
+
+.fbot {
+    margin-left: 13px;
+    padding: 5px;
+    
+}
+
+.sbot {
+    padding: 5px;
+    float: right;
+    margin-right: 13px;
+    background-color: darkblue;
+    color: white;
+}
+.contain {
+    /* margin-top: 20px; */
+    width: 50vw;
+    height: 35vh;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.boxess {
+
+    width: 10vw;
+    height: 35vh;
+    /* border: 2px solid black; */
+    box-shadow: 5px 5px blanchedalmond;
+}
+.contai {
+    /* margin-top: 20px; */
+    width: 50vw;
+    height: 35vh;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.boxesss {
+
+    width: 10vw;
+    height: 35vh;
+    /* border: 2px solid black; */
+    box-shadow: 5px 5px blanchedalmond;
+}
+
+
+
+.fline{
+    margin-top: 10px;
+    width: 30vw;
+    height: 64px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+
+}
+.sline{
+    margin-top: 16px;
+    width: 30vw;
+    height: 64px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+
+}
+.baxa{
+    width: 60px;
+    height: 64px;
+    border: 2px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    /* text-align: center; */
+    
+
+}
+.baxaa{
+    width: 60px;
+    height: 64px;
+    border: 2px solid darkblue;
+    background-color: darkblue;
+    color: white;
+    
+}
+.z1{
+    
+    margin-left: 18px;
+    }
+.navi{
+    margin-top: 20px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 4px;
+    font-size: 20px;
+    align-items: center;
+    background-color: aqua;
+}  
+.pink{
+    background-color: tomato;
+    width: 100px;
+    height: 60px;
+    display: inline-block;
+    
+
+}  
+.light{
+    background-color: aqua;
+}
+.biller{
+    border: 2px solid black;
+    width: 30vw;
+    height: 74.5vh;
+}
+.na1{
+    color: white;
+    margin: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid tomato;
+    background-color: tomato;
+    padding: 15px;
+}
+.na2{
+    color: white;
+    margin: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid tomato;
+    background-color: tomato;
+    padding: 15px;
+}
+.na3{
+    color: white;
+    margin: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid tomato;
+    background-color: tomato;
+    padding: 15px;
+}
+.na4{
+    color: white;
+    margin: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid tomato;
+    background-color: tomato;
+    padding: 15px;
+}
+.na5{
+    color: white;
+    margin: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid tomato;
+    background-color: tomato;
+    padding: 15px;
+}
+.na6{
+    color: white;
+    margin: 15px 15px;
+    
+    
+    border: 2px solid tomato;
+    background-color: tomato;
+    padding: 15px;
+}
+.tot1{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.botom{
+    margin-top: 10px;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    }
+ .boline{
+    font-size: 20px;
+    padding: 10px;
+    background-color: darkblue;
+    color: white;
+}   
+.tomline{
+    margin-top: 10px;
+
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+.miss{
+    font-size: 20px;
+    padding: 10px;
+    background-color: blue;
+
+}
+.sisi{
+    font-size: 20px;
+    padding: 10px;
+    background-color: yellowgreen;
+
+}
+.pipi{
+    font-size: 20px;
+    padding: 10px;
+    background-color: tomato;
+
+}
+
+  
+
+
+ 
